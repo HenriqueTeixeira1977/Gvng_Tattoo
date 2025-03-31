@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Henriq Tatto</title>
+  <title>GVNGTatto | Transforme sua pele em uma Obra de Arte</title>
 
   <!-- Favicons -->
   <link href="assets/images/favicon.png" rel="icon">
@@ -55,16 +55,16 @@
     </nav>
   </header>
 -->
-<header id="header" class="header d-flex align-items-center fixed-top">
+  <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
       <div id="logotipo" class="logotipo">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <div id="logo-img" class="logo-img">
-          <a href="index.php"><img src="assets/img/logo.png" alt=""></a>
+          <a href="index.php"><img src="./assets/images/logotipos/logo4.png" width="50px" height alt="logotipo4"></a>
         </div>        
         <div id="logo-txt" class="logo-txt">
-          <a href="index.php" class="titulo">HenriqueTattoo</a>
-          <a href="index.php" class="slogan">LetteringCusttom</a>
+          <a href="index.php" class="titulo">Tattoo</a>
+          <!--  <a href="index.php" class="slogan">LetteringCusttom</a>  -->
         </div>
       </div>
       <nav id="navmenu" class="navmenu">
